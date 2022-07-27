@@ -1,4 +1,4 @@
-### Oi! Meu nome é Matheus Henrique, iniciante em Web Design e Front-End!
+### Oi! Meu nome é Matheus Henrique, sou iniciante em Web Design e Front-End!
 
 - 🌱 Estudando Web Design e Front-End
 - 😄 Pronomes: ele/dele
